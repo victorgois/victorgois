@@ -19,7 +19,7 @@
   * The History of Jazz - Ted Gioia (1999)
 
 
-- 📚 No último ano, li
+- 📚 Últimos livros lidos
   * Humankind – Timothy Morton (2017)
   * Tecnopolíticas da Vigilância – 2019
   * Futurability: The Age of Impotence and The Horizon of Possibility - Bifo Berardi (2017)
