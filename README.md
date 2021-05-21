@@ -35,7 +35,10 @@
   * Homo Deus - Yuval Noah Harari (2019)
 
 
-- 📫 Meu contato principal é **victorgois18@gmail.com**
+- 📫 Meu contato principal é **victorgois18@gmail.com**, mas você pode me achar no
+ * [Twitter](https://twitter.com/victorgoisp)
+ * ▶️ [YouTube](https://www.youtube.com/channel/UCklJJvb043h5KB7kZ2-tO3Q)
+ * [Medium](https://medium.com/dgtl-mente)
 
 - 📄 Você pode descobrir mais sobre mim em [https://victorgois.com/pt/quem/](https://victorgois.com/pt/quem/)
 
