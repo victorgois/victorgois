@@ -9,12 +9,11 @@
 
 - 📝 Você pode ler meus artigos em [https://victorgois.com/pt/](https://victorgois.com/pt/)
 
-- 📚 Estou lendo 
+- 📚 Estou lendo ou quero ler
   * Bitcoin: A utopia tecnocrática do dinheiro apolítico – Edemilson Paraná (2020)
   * Marx no Fliperama: Videogames e Luta de Classes – Jamie Woodcock (2020)
   * Código Limpo: Habilidades Práticas do Agile Software - Robert C. Martin (2019)
   * New Media Art - Mark Tribe (2006)
-  * The Circle - Dave Eggers (2013)
   * Cultural Analytics - Lev Manovich (2020)
   * The History of Jazz - Ted Gioia (1999)
 
@@ -24,11 +23,7 @@
   * Tecnopolíticas da Vigilância – 2019
   * Futurability: The Age of Impotence and The Horizon of Possibility - Bifo Berardi (2017)
   * Protocol – Alexander Galloway (2004)
-  * Pesquisando Plataformas Online: Conceitos e Métodos – Carlos d’Andréa (2020)
-  * Contos de Thunder - A Biografia (2020)
   * Do que eu falo quando eu falo de corrida - Haruki Murakami (2007)
-  * O amanhã não está a venda - Ailton Krenak (2020)
-  * Dynamics of Critical Internet Culture - Geert Lovink (2009)
   * Budapeste - Chico Buarque (2003)
   * Exporatory Programming for the arts and humanities - Nick Montfort (2016)
   * Tactical Media - Rita Raley (2009)
@@ -44,9 +39,7 @@
 
 - ⚡ Fun facts 
   * Sou colecionador de discos de vinil
-  * Minha principal influência de pensamento vem dos pós estruturalistas - Michel Foucault, Gilles Deleuze e Felix Guattari
   * Meu sonho é fazer parte de uma banda de jazz
-  * Sou apaixonado pela Argentina, mesmo sem nunca ter ido lá
   * Acredito na descolonização do saber e na transdisciplinariedade
 
 
