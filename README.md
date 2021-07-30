@@ -13,9 +13,6 @@
   * Bitcoin: A utopia tecnocrática do dinheiro apolítico – Edemilson Paraná (2020)
   * Marx no Fliperama: Videogames e Luta de Classes – Jamie Woodcock (2020)
   * Código Limpo: Habilidades Práticas do Agile Software - Robert C. Martin (2019)
-  * New Media Art - Mark Tribe (2006)
-  * Cultural Analytics - Lev Manovich (2020)
-  * The History of Jazz - Ted Gioia (1999)
 
 
 - 📚 Últimos livros lidos
@@ -24,10 +21,6 @@
   * Futurability: The Age of Impotence and The Horizon of Possibility - Bifo Berardi (2017)
   * Protocol – Alexander Galloway (2004)
   * Do que eu falo quando eu falo de corrida - Haruki Murakami (2007)
-  * Budapeste - Chico Buarque (2003)
-  * Exporatory Programming for the arts and humanities - Nick Montfort (2016)
-  * Tactical Media - Rita Raley (2009)
-  * Homo Deus - Yuval Noah Harari (2019)
 
 
 - 📫 Meu contato principal é **victorgois18@gmail.com**, mas você pode me achar no
@@ -37,10 +30,6 @@
 
 - 📄 Você pode descobrir mais sobre mim em [https://victorgois.com/pt/quem/](https://victorgois.com/pt/quem/)
 
-- ⚡ Fun facts 
-  * Sou colecionador de discos de vinil
-  * Meu sonho é fazer parte de uma banda de jazz
-  * Acredito na descolonização do saber e na transdisciplinariedade
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgois&show_icons=true&locale=en&layout=compact" alt="victorgois" /></p>
