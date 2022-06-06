@@ -12,5 +12,5 @@ I'm currently working with **React**, **NextJs**, **Javascript** and **Typescrip
   
 My main contact is **victorgois18@gmail.com**
 
-📄 [To know more about me](https://victorgois.com/pt/quem/)
+📄 [To know more about me](http://victorgois.com/)
 </div>
