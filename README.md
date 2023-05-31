@@ -8,12 +8,13 @@
  <p align="center">Data Journalist and Frontend Developer</p>
  <p align="center">Currently, Software Developer at @3778</p>
  <div></div>
- Working with 
+ Working with <br /> <br />
    <a href="https://typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
  <a href="https://typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  
+   <a href="https://graphql.org/" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40"/> </a>
+
 <h3 align="center">Reach me out</h3>
 <p align="center">Portfolio (http://victorgois.com/)</p>
 <p align="center">Email (mailto:victorgois18@gmail.com)
