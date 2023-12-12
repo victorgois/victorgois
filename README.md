@@ -16,7 +16,7 @@
    <a href="https://graphql.org/" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40"/> </a>
 
 <h3 align="center">Reach me out</h3>
-<p align="center">Portfolio (http://victorgois.com/)</p>
+<p align="center">Portfolio (http://victorgois.dev/)</p>
 <p align="center">Email (mailto:victorgois18@gmail.com)
 </p>
 
