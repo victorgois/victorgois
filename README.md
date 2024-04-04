@@ -5,7 +5,7 @@
  <h3 align="center">Hi 👋, I am Victor</h3>
  <p align="center">
   🏠 Based on BH 🧀, Brazil.</p>
- <p align="center">Journalist Engineer and Frontend Developer</p>
+ <p align="center">Journalist Engineer, Frontend Developer and Musician</p>
  <p align="center">Currently, Software Developer at @3778</p>
  <div></div>
  Working with <br /> <br />
