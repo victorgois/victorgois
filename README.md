@@ -6,7 +6,7 @@
  <p align="center">
   🏠 Based on BH 🧀, Brazil.</p>
  <p align="center">Journalist Engineer, Frontend Developer and Musician</p>
- <p align="center">Currently, Software Developer at @3778</p>
+ <p align="center">Currently, looking for jobs</p>
  <div></div>
  Working with <br /> <br />
    <a href="https://typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="typescript" width="40" height="40"/> </a>
