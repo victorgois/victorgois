@@ -1,12 +1,13 @@
 
 <div align="center">
- <img src="https://pro2-bar-s3-cdn-cf6.myportfolio.com/9f2246658dc22312097626cd09107c99/7e62f19a-2473-4bb1-a3e9-ba660e435437_rw_600.gif?h=62a0dcccbfb417a595fc533ca7560916" width="250" height="250" />
+ <img src="https://github.com/user-attachments/assets/f800ba3f-5fde-498f-9505-90e0fbd78f51" width="250" height="250" />
+
 
  <h3 align="center">Hi 👋, I am Victor</h3>
  <p align="center">
   🏠 Based on BH 🧀, Brazil.</p>
- <p align="center">Journalist Engineer, Fullstack Developer and Musician</p>
- <p align="center">Currently, looking for jobs</p>
+ <p align="center">Journalist Engineer and Fullstack Developer</p>
+ <p align="center">Currently, looking for interesting jobs</p>
  <div></div>
  Working with <br /> <br />
    <a href="https://typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="typescript" width="40" height="40"/> </a>
