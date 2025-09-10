@@ -7,9 +7,8 @@
  <p align="center">
   🏠 Based on BH 🧀, Brazil.</p>
  <p align="center">Journalist Engineer and Fullstack Developer</p>
- <p align="center">Currently, looking for interesting jobs</p
- <div></div>
- Working with <br /> <br />
+ <p align="center">Currently, looking for interesting jobs</p>
+ Working with <br/> <br/>
    <a href="https://typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
  <a href="https://typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
