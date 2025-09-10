@@ -18,6 +18,6 @@
       <a href="https://d3js.org/" target="_blank"> <img src="https://github.com/d3/d3-logo/blob/master/d3.svg" alt="d3" width="40" height="40"/> </a>
 <h3 align="center">Reach me out</h3>
 <p align="center">Portfolio (http://victorgois.info/)</p>
-<p align="center">Email (mailto:victorgois18@gmail.com)
+<a href="mailto:dev@victorgois.info">Send me an email</a>
 </p>
 
