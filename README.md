@@ -5,7 +5,7 @@
 
  <h3 align="center">Hi 👋, I am Victor</h3>
  <p align="center">
-  🏠 Based on BH 🧀, Brazil.</p>
+  🏠 Based on Beagá 🧀, Brazil.</p>
  <p align="center">Journalist Engineer and Fullstack Developer</p>
  <p align="center">Currently, looking for interesting jobs</p>
  Working with <br/> <br/>
