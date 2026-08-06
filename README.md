@@ -84,11 +84,11 @@
   <br/>
 
   <h3>Reach me out</h3>
-  <a href="http://victorgois.info/">
-    <img src="https://img.shields.io/badge/Portfolio-victorgois.info-blue?style=flat-square&logo=globe" alt="Portfolio"/>
+  <a href="http://victorgois.com.br/">
+    <img src="https://img.shields.io/badge/Portfolio-victorgois.com.br-blue?style=flat-square&logo=globe" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="mailto:dev@victorgois.info">
-    <img src="https://img.shields.io/badge/Email-dev%40victorgois.info-red?style=flat-square&logo=gmail" alt="Email"/>
+  <a href="mailto:dev@victorgois.com.br">
+    <img src="https://img.shields.io/badge/Email-dev%40victorgois.com.br-red?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </div>
